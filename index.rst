@@ -46,16 +46,4 @@
 
 .. note::
 
-   **This technote is not yet published.**
-
-   This document describes client configuration for the La Serena VPN service.
-
-.. Add content here.
-.. Do not include the document title (it's automatically added from metadata.yaml).
-
-.. .. rubric:: References
-
-.. Make in-text citations with: :cite:`bibkey`.
-
-.. .. bibliography:: local.bib lsstbib/books.bib lsstbib/lsst.bib lsstbib/lsst-dm.bib lsstbib/refs.bib lsstbib/refs_ads.bib
-..    :style: lsst_aa
+   **This technote has been retracted.**
